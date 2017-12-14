@@ -1,0 +1,6 @@
+C:\Users\nslji_000\Documents\Visual Studio 2015\Projects\BolnicaETF\BolnicaETF\bin\Debug\BolnicaETF.exe.config
+C:\Users\nslji_000\Documents\Visual Studio 2015\Projects\BolnicaETF\BolnicaETF\obj\Debug\BolnicaETF.exe
+C:\Users\nslji_000\Documents\Visual Studio 2015\Projects\BolnicaETF\BolnicaETF\obj\Debug\BolnicaETF.pdb
+C:\Users\Student115\Desktop\BolnicaETF\BolnicaETF\bin\Debug\BolnicaETF.exe.config
+C:\Users\Student115\Desktop\BolnicaETF\BolnicaETF\obj\Debug\BolnicaETF.exe
+C:\Users\Student115\Desktop\BolnicaETF\BolnicaETF\obj\Debug\BolnicaETF.pdb
